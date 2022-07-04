@@ -85,6 +85,7 @@ body {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--default-white);
 }
@@ -100,7 +101,9 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
+  letter-spacing: 0.06em;
   color: var(--default-white);
+
 }
 
 .hero-button:hover,
@@ -203,6 +206,7 @@ footer {
 
 /*----------- portfolio section -----------*/
 .button-filter {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
